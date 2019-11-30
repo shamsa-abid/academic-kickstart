@@ -52,7 +52,7 @@ social:
     link: https://scholar.google.com.pk/citations?user=jRO5wwcAAAAJ
   - icon: goodreads
     icon_pack: fab
-    link: https://https://www.goodreads.com/shamsaabid
+    link: https://www.goodreads.com/shamsaabid
   - icon: blogger
     icon_pack: fab
     link: https://technicalquickfixes.blogspot.com/

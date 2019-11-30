@@ -4,7 +4,7 @@
 title: "Retrieving Design Pattern Usage Examples using Domain Matching"
 authors:
   [Shamsa Abid, Zohaa Qamar, Natasha Khan, Muhammad Shayan, Hamid Abdul Basit]
-date: 2017-04-03
+date: 2016-12-06
 doi: "10.1109/APSEC.2016.016"
 
 # Schedule page publish date (NOT publication's date).
