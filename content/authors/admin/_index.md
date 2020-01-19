@@ -78,4 +78,4 @@ user_groups:
   - Visitors
 ---
 
-Shamsa Abid is a PhD Candidate of Computer Science specializing in Code Recommendation at the Lahore University of Managment Sciences Software Engineering Lab. Her research interests include software reuse, code recommendation systems and information retrieval.
+I am a PhD Candidate of Computer Science specializing in Code Recommendation at the Lahore University of Managment Sciences. My research interests include software reuse, code recommendation systems and information retrieval.
