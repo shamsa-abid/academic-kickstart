@@ -18,17 +18,17 @@
   url = "#publications"
   weight = 40
 
- [[main]]
+[[main]]
   name = "Accomplishments"
   url = "#accomplishments"
   weight = 60
 
-   [[main]]
+[[main]]
   name = "Skills"
   url = "#skills"
   weight = 80
 
- [[main]]
+[[main]]
   name = "Teaching"
   url = "#teaching"
   weight = 100
