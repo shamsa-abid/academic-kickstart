@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Recommending Related Functions from API Usage-Based Function Clone Structures"
+title: "FACER: An API Usage-based Code-example Recommender for Opportunistic Reuse"
 authors: [Shamsa Abid, Shafay Shamail, Hamid Abdul Basit, Sarah Nadi]
 date: 2021-08-17
 doi: "10.1007/s10664-021-10000-w"
