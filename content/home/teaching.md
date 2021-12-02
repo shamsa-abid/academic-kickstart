@@ -27,5 +27,21 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Taught Web Programming using the MEAN stack (MongoDB, Express, Angular, Node)."
 
+[[item]]
+  organization = "Kinnaird College for Women University"
+  organization_url = "http://www.kinnaird.edu.pk/"
+  title = "Software Quality Assurance"
+  date_start = "2015-01-01"
+  date_end = ""
+  description = "Mainly responsible for conducting lectures and preparing slides and reading material along with grading"
+
+[[item]]
+  organization = "Beaconhouse National University"
+  organization_url = "https://www.bnu.edu.pk/bnu/"
+  title = "Creating Digital Content"
+  date_start = "2012-08-01"
+  date_end = ""
+  description = "Mainly responsible for conducting lectures and labs and preparing slides and reading material along with grading"
+
 
 +++
