@@ -3,7 +3,7 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 55  # Order that this section will appear.
+weight = 24  # Order that this section will appear.
 
 title = "Teaching"
 subtitle = ""
@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "National University of COmputer and Emetrging Sciences NUCES FAST"
+  organization = "National University of Computer and Emerging Sciences NUCES FAST"
   organization_url = "http://lhr.nu.edu.pk"
   title = "Web Programming"
   url = "https://github.com/CS-A-11/CS406WebProgrammingCourseFall2018"

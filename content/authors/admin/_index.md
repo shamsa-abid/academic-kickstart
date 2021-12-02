@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Software Engineering
+role: Ph.D. in Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -29,6 +29,9 @@ interests:
 
 education:
   courses:
+    - course: Ph.D. in Computer Science
+      institution: Lahore University of Management Sciences
+      year: 2021
     - course: MS in Computer Science
       institution: Lahore University of Management Sciences
       year: 2013
@@ -78,4 +81,4 @@ user_groups:
   - Visitors
 ---
 
-I am a PhD Candidate of Computer Science specializing in Code Recommendation at the Lahore University of Managment Sciences. My research interests include software reuse, code recommendation systems and information retrieval.
+I hold a Ph.D. in Computer Science from the Lahore University of Managment Sciences (LUMS). My research interests include software reuse, code recommendation systems and information retrieval. My Ph.D. thesis is titled "Feature-driven API usage-based Code Example Recommendation for Opportunistic Reuse".
