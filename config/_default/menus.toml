@@ -38,6 +38,11 @@
   url = "#teaching"
   weight = 100
 
+#[[main]]
+#  name = "Gallery"  # A link title for your page.
+#  url = "#gallery"  # The URL of your page.
+#  weight = 101  # The position of your page in the menu.
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
