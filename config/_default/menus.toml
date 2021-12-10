@@ -38,7 +38,10 @@
   url = "#teaching"
   weight = 100
 
-
+[[main]]
+  name = "Image Gallery"  # A link title for your page.
+  url = "#gallery"  # The URL of your page.
+  weight = 101  # The position of your page in the menu.
 
 #[[main]]
 #  name = "Gallery"  # A link title for your page.
