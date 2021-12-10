@@ -53,26 +53,27 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com.pk/citations?user=jRO5wwcAAAAJ
-  - icon: goodreads
-    icon_pack: fab
-    link: https://www.goodreads.com/shamsaabid
-  - icon: blogger
-    icon_pack: fab
-    link: https://technicalquickfixes.blogspot.com/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/shamsaabid
   - icon: cv
     icon_pack: ai
     link: files/cv.pdf
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/shamsaabid/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #  - icon: cv
 #    icon_pack: ai
 #  link: files/cv.pdf
+# - icon: goodreads
+#     icon_pack: fab
+#     link: https://www.goodreads.com/shamsaabid
+# - icon: blogger
+#     icon_pack: fab
+#     link: https://technicalquickfixes.blogspot.com/
+# - icon: instagram
+#     icon_pack: fab
+#     link: https://www.instagram.com/shamsaabid/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
