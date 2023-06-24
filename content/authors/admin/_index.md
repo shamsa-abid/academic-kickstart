@@ -85,4 +85,4 @@ user_groups:
   - Visitors
 ---
 
-I hold a Ph.D. in Computer Science from the Lahore University of Management Sciences (LUMS). My research interests include software reuse, code recommendation systems and information retrieval. My Ph.D. thesis is titled "Feature-driven API usage-based Code Example Recommendation for Opportunistic Reuse".
+I am currently working a Post-Doc Research Scientist at the Singapore Management University. I hold a Ph.D. in Computer Science from the Lahore University of Management Sciences (LUMS). My research interests include software reuse, code recommendation systems and information retrieval. My Ph.D. thesis is titled "Feature-driven API usage-based Code Example Recommendation for Opportunistic Reuse".
