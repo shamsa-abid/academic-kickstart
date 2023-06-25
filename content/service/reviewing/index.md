@@ -2,11 +2,18 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Program Committee Member"
-summary: "Experiences: ICSE 2023 Committee Member in Demonstrations track, MSR 2023 Committee Member in Industry Track, 2023 Intense Committee Member, MSR 2021 Committee Member in Shadow PC committee within the Shadow PC-track" 
+summary: "
+  - ICSE 2023 Committee Member in Demonstrations track
+
+  - MSR 2023 Committee Member in Industry Track
+
+  - 2023 Intense Committee Member
+
+  - MSR 2021 Committee Member in Shadow PC committee within the Shadow PC-track"
 authors: []
 tags: []
 categories: []
-date: 
+date: "June 2023"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

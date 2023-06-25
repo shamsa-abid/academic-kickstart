@@ -18,14 +18,14 @@
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 50
+  weight = 40
 
 [[main]]
   name = "Service"
   url = "#service"
-  weight = 40
+  weight = 50
 
-  
+
 [[main]]
   name = "Accomplishments"
   url = "#accomplishments"
