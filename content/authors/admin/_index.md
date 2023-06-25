@@ -10,22 +10,24 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. in Computer Science
+role: Research Scientist (Post-Doc)
 
 # Organizations/Affiliations
 organizations:
-  - name: Lahore University of Management Sciences
+  - name: Singapore Management University
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include software reuse, code recommendation systems and information retrieval.
+bio: My research interests include explainable AI, code models trustworthiness, semantic clones, software reuse, and code recommendation systems.
 
 interests:
-  - Software Engineering
-  - Information Retrieval
+  - Code Models Trustworthiness
+  - Semantic Clones Labeling
+  - Explainable AI 
   - Code Recommendation and Reuse
   - Mining Software Repositories
-  - Code Clones
+  - Empirical Studies
+
 
 education:
   courses:
@@ -85,4 +87,6 @@ user_groups:
   - Visitors
 ---
 
-I am currently working a Post-Doc Research Scientist at the Singapore Management University. I hold a Ph.D. in Computer Science from the Lahore University of Management Sciences (LUMS). My research interests include software reuse, code recommendation systems and information retrieval. My Ph.D. thesis is titled "Feature-driven API usage-based Code Example Recommendation for Opportunistic Reuse".
+I am currently working as a Post-Doc Research Scientist at the Singapore Management University with Professor Lingxiao Jiang. I work on AI models explainablity and trustworthiness. In particular, I am interested in evaluating code models for semantic clones detection.
+
+I obtained my PhD degree in Computer Science from the Lahore University of Management Sciences (LUMS), Pakistan. My Phd Supervisors are Dr. Shafay Shamail and Dr. Hamid Abdul Basit. My Ph.D. thesis is titled "Feature-driven API usage-based Code Example Recommendation for Opportunistic Reuse".
