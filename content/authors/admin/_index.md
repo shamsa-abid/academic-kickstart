@@ -18,12 +18,13 @@ organizations:
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include explainable AI, code models trustworthiness, semantic clones, software reuse, and code recommendation systems.
+bio: My research interests include generative AI for code reuse, explainable AI (XAI), code models trustworthiness, semantic clones, software reuse, and code recommendation systems.
 
 interests:
-  - Code Models Trustworthiness
-  - Semantic Clones Labeling
-  - Explainable AI 
+  - Generative AI for Code Reuse - Safety and Performance
+  - Code Models Trustworthiness Evaluation
+  - Semantic Code Clones Benchmarking
+  - Explainable AI (XAI)
   - Code Recommendation and Reuse
   - Mining Software Repositories
   - Empirical Studies
@@ -91,4 +92,4 @@ user_groups:
 
 I am currently working as a Post-Doc Research Scientist at the Singapore Management University with Professor Lingxiao Jiang. I work on AI models explainablity and trustworthiness. In particular, I am interested in evaluating code models for semantic clones detection.
 
-I obtained my PhD degree in Computer Science from the Lahore University of Management Sciences (LUMS), Pakistan. My Phd Supervisors are Dr. Shafay Shamail and Dr. Hamid Abdul Basit. My Ph.D. thesis is titled "Feature-driven API usage-based Code Example Recommendation for Opportunistic Reuse".
+I obtained my PhD degree in Computer Science from the Lahore University of Management Sciences (LUMS), Pakistan. My Phd Supervisors are [Prof. Dr. Shafay Shamail](https://lums.edu.pk/lums_employee/533) and Dr. Hamid Abdul Basit. My Ph.D. thesis is titled "Feature-driven API usage-based Code Example Recommendation for Opportunistic Reuse".
