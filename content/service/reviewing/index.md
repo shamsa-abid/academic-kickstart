@@ -3,6 +3,8 @@
 
 title: "Program Committee Member"
 summary: "
+  - ICSME 2024 Committee Member in the Research Track
+   
   - ICSE 2023 Committee Member in Demonstrations track
 
   - MSR 2023 Committee Member in Industry Track

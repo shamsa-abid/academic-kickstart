@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Shamsa Abid
+name: Shamsa Abid (PhD)
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ role: Research Scientist (Post-Doc)
 
 # Organizations/Affiliations
 organizations:
-  - name: Singapore Management University
+  - name: LUMS, SMU
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
