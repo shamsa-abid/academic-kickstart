@@ -9,7 +9,10 @@ summary: "
 
   - 2023 Intense Committee Member
 
-  - MSR 2021 Committee Member in Shadow PC committee within the Shadow PC-track"
+  - MSR 2021 Committee Member in Shadow PC committee within the Shadow PC-track
+
+  - Reviewer for Journal of Behavior and Information Technology in 2020 and 2021 "
+  
 authors: []
 tags: []
 categories: []
