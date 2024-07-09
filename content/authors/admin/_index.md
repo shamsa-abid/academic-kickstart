@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Shamsa Abid (PhD)
+name: Shamsa Abid
 
 # Username (this should match the folder name)
 authors:
@@ -27,6 +27,8 @@ interests:
   - Code Recommendation and Reuse
   - Mining Software Repositories
   - Empirical Studies
+  - Design Patterns
+  - Algorithms
 
 
 education:
