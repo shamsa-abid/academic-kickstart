@@ -5,7 +5,7 @@ title: "Unveiling the Code Model Enigma: Interpreting the Gap Between AI and Hum
 summary: "Semantic code clone detection remains a challenging task in the realm of software engineering. While AI models are reportedly accurate, they often fail to generalize to other codebases, raising questions about their reliability and trustworthiness. We need ways to understand or interpret the decision-making behavior of the code models and evaluate whether it aligns with human intuition. In this direction, our goal is to evaluate the performance of models in relation to human intuition using counterfactual data mutations. In this talk, I will discuss how we create a human-labeled dataset of code regions of core and non-core similarities and differences, and how we perturb code clone pairs systematically to examine shifts in prediction. Our findings have practical implications, aiding researchers and end-users in choosing code clone detection models more effectively." 
 authors: [Shamsa Abid]
 tags: []
-categories: []
+categories: [SMU]
 date: 2023-10-20T00:11:28+05:00
 
 # Optional external URL for project (replaces project detail page).
@@ -15,9 +15,9 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "FACER System Architecture"
+  caption: "Model rankings for semantic code clone detection"
   focal_point: "Smart"
-  preview_only: true
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
