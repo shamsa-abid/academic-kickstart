@@ -16,7 +16,7 @@
 
 
 [[main]]
-  name = "Projects"
+  name = "Talks"
   url = "#projects"
   weight = 40
 
@@ -26,10 +26,6 @@
   weight = 50
 
 
-[[main]]
-  name = "Accomplishments"
-  url = "#accomplishments"
-  weight = 60
 
 #[[main]]
 # name = "Skills"
@@ -39,10 +35,16 @@
 [[main]]
   name = "Teaching"
   url = "#teaching"
+  weight = 60
+
+
+[[main]]
+  name = "Accomplishments"
+  url = "#accomplishments"
   weight = 100
 
 [[main]]
-  name = "Research gallery"  # A link title for your page.
+  name = "Gallery"  # A link title for your page.
   url = "#gallery"  # The URL of your page.
   weight = 101  # The position of your page in the menu.
 

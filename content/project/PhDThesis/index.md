@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "PhD Thesis"
+title: "PhD Thesis Defense"
 summary: "Software developers need to search for reusable code that would assist them in implementing
 a given feature or development task. Often, the timely discovery of a critical piece of
 information can have a dramatic impact on productivity. Current code search systems focus on
@@ -25,10 +25,10 @@ external_link: ""
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-#image:
-  #caption: "FACER System Architecture"
-  #focal_point: "Bottom"
-  #preview_only: true
+image:
+  caption: "FACER System Architecture"
+  focal_point: "Smart"
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
