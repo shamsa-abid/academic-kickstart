@@ -16,7 +16,7 @@
 
 
 [[main]]
-  name = "Talks"
+  name = "Seminars"
   url = "#projects"
   weight = 40
 
@@ -39,7 +39,7 @@
 
 
 [[main]]
-  name = "Accomplishments"
+  name = "Certificates"
   url = "#accomplishments"
   weight = 100
 
