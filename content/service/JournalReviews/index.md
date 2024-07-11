@@ -14,7 +14,7 @@ summary: "
 authors: []
 tags: []
 categories: []
-date: "June 2023"
+date: ""
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
