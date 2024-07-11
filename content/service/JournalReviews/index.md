@@ -7,8 +7,6 @@ summary: "
 	
   - [Empirical Software Engineering (EMSE)](https://link.springer.com/journal/10664) journal reviewer 2024
   
-  - [Mining Software Repositories (MSR) 2021](https://2021.msrconf.org/track/msr-2021-shadow-pc?) Committee Member in Shadow PC committee within the Shadow PC-track
-
   - [Journal of Behavior and Information Technology](https://www.tandfonline.com/journals/tbit20) reviewer in 2020 and 2021 "
   
 authors: []
