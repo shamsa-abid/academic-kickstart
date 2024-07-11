@@ -1,12 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Program Committee Member"
+title: "Conference Program Committee Membership"
 summary: "
-  - [ACM Transactions on Software Engineering and Methodology (TOSEM)](https://dl.acm.org/journal/tosem/reviewers) reviewer
-	
-  - [Empirical Software Engineering (EMSE)](https://link.springer.com/journal/10664) journal reviewer 2024
-	
   - [International Conference on Software Maintenance and Engineering (ICSME) 2024](https://conf.researchr.org/track/icsme-2024/icsme-2024-papers) committee member
 	
   - [Mining Software Repositories (MSR) 2024](https://2024.msrconf.org/track/msr-2024-technical-papers?) Committee Member in technical Track
@@ -19,9 +15,7 @@ summary: "
   
   - [International Workshop on Interpretability and Robustness in Neural Software Engineering (InteNSE) 2023](https://intense23.github.io/#six) Committee Member
   
-  - [Mining Software Repositories (MSR) 2021](https://2021.msrconf.org/track/msr-2021-shadow-pc?) Committee Member in Shadow PC committee within the Shadow PC-track
-
-  - [Journal of Behavior and Information Technology](https://www.tandfonline.com/journals/tbit20) reviewer in 2020 and 2021 "
+  - [Mining Software Repositories (MSR) 2021](https://2021.msrconf.org/track/msr-2021-shadow-pc?) Committee Member in Shadow PC committee within the    Shadow PC-track"
   
 authors: []
 tags: []
