@@ -60,4 +60,49 @@ date_format = "Jan 2006"
   description = ""
 
 
+[[item]]
+  organization = "LUMS"
+  organization_url = "https://lums.edu.pk"
+  title = "Intelligent Computing Course Audit"
+  url = ""
+  certificate_url = ""
+  date_start = "2012-01-01"
+  date_end = ""
+  description = ""
+
+
+[[item]]
+  organization = "LUMS"
+  organization_url = "https://lums.edu.pk"
+  title = "iOS Development Workshop Particpation"
+  url = ""
+  certificate_url = ""
+  date_start = "2012-04-14"
+  date_end = "2012-04-15"
+  description = ""
+
+[[item]]
+  organization = "FOSSAC 2005"
+  organization_url = "https://www.osrc.org.pk"
+  title = "UBUNTU-Linux User"
+  url = ""
+  certificate_url = ""
+  date_start = "2005-08-16"
+  date_end = "2005-08-19"
+  description = "1st National Free and Open Source Software Awareness Campaign Training by FOSSFP: Free and Open Source Foundation Pakistan (FOSS Academy)"
+
+[[item]]
+  organization = "BrainNET"
+  organization_url = "https://www.brain.net.pk"
+  title = "Internet and Multimedia Professional"
+  url = ""
+  certificate_url = ""
+  date_start = "2004-09-09"
+  date_end = ""
+  description = "Training and examination administered by BrainNet. "
+
+
+\entry*[2004] \textbf{Internet and Multimedia Professional}, BrainNET.
+
+
 +++

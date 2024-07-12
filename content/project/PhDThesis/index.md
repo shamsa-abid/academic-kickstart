@@ -20,7 +20,7 @@ categories: []
 date: 2021-12-03T00:11:28+05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://sbasse.lums.edu.pk/node/10110"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
