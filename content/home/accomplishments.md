@@ -101,8 +101,4 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Training and examination administered by BrainNet. "
 
-
-\entry*[2004] \textbf{Internet and Multimedia Professional}, BrainNET.
-
-
 +++
