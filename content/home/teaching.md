@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = "https://github.com/CS-A-11/CS406WebProgrammingCourseFall2018"
   date_start = "2018-08-27"
   date_end = ""
-  description = "The course is focused on the fundamental concepts of web architecture and programming. The course is aimed towards beginners who have basic knowledge of programming but do not have any prior experience in web development. They will be taught basics of client and server side programming and later introduced to modern practices of developing websites using the MEAN stack (MongoDB, Express, Angular, Node) and also AngularJS and AJAX."
+  description = "The course is focused on the fundamental concepts of web architecture and programming. The course is aimed towards beginners who have basic knowledge of programming but do not have any prior experience in web development. They will be taught basics of client and server side programming and later introduced to modern practices of developing websites using the MEAN stack (MongoDB, Express, Angular, Node) and also AngularJS and AJAX. Check the [course website](https://github.com/CS-A-11/CS406WebProgrammingCourseFall2018)."
   url_slides = "https://github.com/CS-A-11/CS406WebProgrammingCourseFall2018"
   slides_url = "https://github.com/CS-A-11/CS406WebProgrammingCourseFall2018"
 
