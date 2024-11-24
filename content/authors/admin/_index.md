@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Shamsa Abid
+name: Dr. Shamsa Abid
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Scientist (Post-Doc)
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: LUMS, SMU
-    url: ""
+  - name: NUCES-FAST
+    url: "https://cfd.nu.edu.pk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include generative AI for code reuse, explainable AI (XAI), code models trustworthiness, semantic clones, software reuse, and code recommendation systems.
@@ -90,6 +90,6 @@ user_groups:
   - Visitors
 ---
 
-I am currently a Post-Doc Research Fellow at [LUMS](https://lums.edu.pk/) working on proposals for research funding and co-supervising a Master's thesis in Computer Science. Additionally, I am working on research related to "Interpretability of AI Models". This research builds on my recent Post-Doctoral experience as a Research Scientist at the [Research for Intelligent Software Engineering (RISE)](https://rise.smu.edu.sg/) laboratory at [Singapore Management University (SMU)](https://smu.edu.sg), ranked fourth globally for software engineering research. My work at SMU involved evaluating human-model alignment for deep-learning-based AI systems, with a particular focus on causal explainability. As part of the _Science of Certified AI systems_ project, funded by the Ministry of Education, I worked with my supervisor [Prof. Lingxiao Jiang](http://www.mysmu.edu/faculty/lxjiang/), to develop methodologies to evaluate the trustworthiness of AI models for code-relevant tasks.
+I am currently an Asssistant Professor at the National University of Computer and Emerging Sciences, FAST, Chiniot-Faisalabad Campus in Pakistan. I am teaching Software Requirements Engineering and Data Structures. Previously, I was holding a short-term Post-Doc Research Fellow honorary position at [LUMS](https://lums.edu.pk/) working on proposals for research funding and co-supervising a Master's thesis in Computer Science. Additionally, I am working on research related to "Interpretability of AI Models". This research builds on my recent Post-Doctoral experience as a Research Scientist at the [Research for Intelligent Software Engineering (RISE)](https://rise.smu.edu.sg/) laboratory at [Singapore Management University (SMU)](https://smu.edu.sg), ranked fourth globally for software engineering research. My work at SMU involved evaluating human-model alignment for deep-learning-based AI systems, with a particular focus on causal explainability. As part of the _Science of Certified AI systems_ project, funded by the Ministry of Education, I worked with my supervisor [Prof. Lingxiao Jiang](http://www.mysmu.edu/faculty/lxjiang/), to develop methodologies to evaluate the trustworthiness of AI models for code-relevant tasks.
 
 I obtained my PhD degree in Computer Science from the Lahore University of Management Sciences (LUMS), Pakistan in 2021. My Ph.D. was supervised by [Prof. Dr. Shafay Shamail](https://lums.edu.pk/lums_employee/533) and my PhD committee members included [Dr. Hamid Abdul Basit](https://pk.linkedin.com/in/hamidabdulbasit), [Dr. Basit Shafique](https://lums.edu.pk/lums_employee/2853), and [Dr. Naveed Arshad](https://lums.edu.pk/lums_employee/1352). My Ph.D. thesis is titled "Feature-driven API usage-based Code Example Recommendation for Opportunistic Reuse".
