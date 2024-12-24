@@ -19,6 +19,22 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "National University of Computer and Emerging Sciences NUCES FAST CFD Campus"
+  organization_url = "http://cfd.nu.edu.pk"
+  title = "Software Requirements Engineering"
+  date_start = "2024-10-28"
+  date_end = "2024-12-5"
+  description = "This course aims at familiarizing students with the complete requirements engineering process from stakeholder identification and elicitation processes to requirements analysis, specification, modeling, validation, management, traceability, negotiation, and prioritization phases."
+
+[[item]]
+  organization = "National University of Computer and Emerging Sciences NUCES FAST CFD Campus"
+  organization_url = "http://cfd.nu.edu.pk"
+  title = "Data Structures"
+  date_start = "2024-10-28"
+  date_end = "2024-12-5"
+  description = "This course aims at familiarizing students with stacks, queue, linked lists, recursion, binary search trees, AVL trees, heaps, heapsort, graphs, adjacency matrix and adjacency list implementations of graphs, spanning trees, breadth-first and depth-first traversal, single source shortest path finding, hashing, open addressing and chaining, and trees. Complexity analysis in Big O notation is also covered."
+
+[[item]]
   organization = "National University of Computer and Emerging Sciences NUCES FAST"
   organization_url = "http://lhr.nu.edu.pk"
   title = "Web Programming"
