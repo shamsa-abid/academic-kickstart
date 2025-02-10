@@ -3,6 +3,10 @@
 
 title: "Conference Program Committee Membership"
 summary: "
+  - [ACM International Conference on the Foundations of Software Engineering (FSE) 2025](https://conf.researchr.org/track/fse-2025/fse-2025-demonstrations) Program Committee Member in Demonstrations Track
+
+    - [International Conference on Software Maintenance and Engineering (ICSME) 2025](https://conf.researchr.org/track/icsme-2025/icsme-2025-papers) Program Committee Member in Research Track
+
   - [International Conference on Software Maintenance and Engineering (ICSME) 2024](https://conf.researchr.org/track/icsme-2024/icsme-2024-papers) committee member
 	
   - [Mining Software Repositories (MSR) 2024](https://2024.msrconf.org/track/msr-2024-technical-papers?) Committee Member in technical Track
