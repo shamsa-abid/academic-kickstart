@@ -17,6 +17,21 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[item]]
+  organization = "National University of Computer and Emerging Sciences NUCES FAST CFD Campus"
+  organization_url = "http://cfd.nu.edu.pk"
+  title = "Software Re-Engineering"
+  date_start = "2025-01-20"
+  date_end = "2025-05-09"
+  description = "This course explores the principles, processes, and practices involved in maintaining and evolving legacy software systems. It covers the unique challenges of legacy systems and introduces foundational and modern approaches to software reengineering. Key topics include software maintenance strategies, reverse engineering, system migration, refactoring, and restructuring. The course also examines the role of design patterns in improving code quality. Students will gain a deep understanding of software reengineering processes, including the adaptation of Commercial Off-The-Shelf (COTS) components and maintaining COTS-based systems. Emphasis is placed on preserving system integrity while enhancing functionality and adapting to new requirements. Through hands-on exercises and case studies, students will learn to apply reengineering concepts to transform aging systems into maintainable and efficient solutions."
+
+[[item]]
+  organization = "National University of Computer and Emerging Sciences NUCES FAST CFD Campus"
+  organization_url = "http://cfd.nu.edu.pk"
+  title = "Design and Analysis of Algorithms"
+  date_start = "2025-01-20"
+  date_end = "2025-05-09"
+  description = "This course introduces techniques for the design and analysis of efficient algorithms for solving problems that occur frequently in computer applications. Course objectives: Explain what is meant by best expected and worst-case behavior of an algorithm; Determine informally the time and space complexity of simple algorithms; List and contrast standard complexity classes; Use big O, Omega, Theta notation formally to give asymptotic upper bounds on time and space complexity of algorithms; Use of the design strategies brute force, greedy, divide and conquer, and dynamic programming to solve an appropriate problem; Apply important algorithmic design paradigms and methods of analysis; Solve problems using graph algorithms including single source and all pairs shortest paths and minimum spanning tree algorithms (Dijkstra, Bellman Ford, Floyd Warshall); Solve string-matching problems (Knuth-Morris-Pratt, Rabin-Karp); Solve maximum subarray problem (divide and conquer, Kadanes); Solve Knapsack problem using Dynamic Programming"
 
 [[item]]
   organization = "National University of Computer and Emerging Sciences NUCES FAST CFD Campus"
