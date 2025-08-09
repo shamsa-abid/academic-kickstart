@@ -12,7 +12,7 @@ summary: "
 authors: []
 tags: []
 categories: []
-date: ""
+#date: ""
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

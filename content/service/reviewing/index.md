@@ -3,6 +3,8 @@
 
 title: "Conference Program Committee Membership"
 summary: "
+  - [40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025](https://conf.researchr.org/committee/ase-2025/ase-2025-papers-program-committee) Program Committee Member in Research Track
+
   - [ACM International Conference on the Foundations of Software Engineering (FSE) 2025](https://conf.researchr.org/track/fse-2025/fse-2025-demonstrations) Program Committee Member in Demonstrations Track
 
     - [International Conference on Software Maintenance and Engineering (ICSME) 2025](https://conf.researchr.org/track/icsme-2025/icsme-2025-papers) Program Committee Member in Research Track
@@ -24,7 +26,7 @@ summary: "
 authors: []
 tags: []
 categories: []
-date: ""
+#date: ""
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
