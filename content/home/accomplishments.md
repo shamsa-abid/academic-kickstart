@@ -59,6 +59,16 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = " ACM International Conference on the Foundations of Software Engineering (FSE) 2025"
+  organization_url = "https://conf.researchr.org/home/fse-2025"
+  title = "Distinguished Reviewer Award (Demonstrations Track)"
+  url = ""
+  certificate_url = ""
+  date_start = "2025-06-27"
+  date_end = ""
+  description = ""
+
 
 [[item]]
   organization = "LUMS"
