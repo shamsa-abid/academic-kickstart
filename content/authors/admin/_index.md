@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Post-Doc Research Fellow
 
 # Organizations/Affiliations
 organizations:
-  - name: NUCES-FAST
-    url: "https://cfd.nu.edu.pk/"
+  - name: LUMS
+    url: "https://lums.edu.pk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include generative AI for code reuse, explainable AI (XAI), code models trustworthiness, semantic clones, software reuse, and code recommendation systems.
@@ -89,14 +89,13 @@ user_groups:
   - Researchers
   - Visitors
 ---
-
-I am currently an Assistant Professor at the [National University of Computer and Emerging Sciences, FAST, Chiniot-Faisalabad Campus](https://cfd.nu.edu.pk/) in Pakistan. I work on research broadly related to AI for Software Engineering. My current research interests are evaluating "code generation quality of LLMs", using "LLMs for requirements validation", and "Interpretability of AI Models". This research builds on my recent Post-Doctoral experience as a Research Scientist at the [Research for Intelligent Software Engineering (RISE)](https://rise.smu.edu.sg/) laboratory at [Singapore Management University (SMU)](https://smu.edu.sg), ranked second globally for software engineering research. My work at SMU involved evaluating human-model alignment for deep-learning-based AI systems, with a particular focus on causal explainability. As part of the _Science of Certified AI systems_ project, funded by the Ministry of Education, I worked with my supervisor [Prof. Lingxiao Jiang](http://www.mysmu.edu/faculty/lxjiang/), to develop methodologies to evaluate the trustworthiness of AI models for code-relevant tasks.
+I currently do research in collaboration with [LUMS](https://lums.edu.pk/) and [SMU](https://rise.smu.edu.sg/) on research broadly related to AI for Software Engineering. I worked as an Assistant Professor at the [National University of Computer and Emerging Sciences, FAST](https://cfd.nu.edu.pk/) in Pakistan from 2024 to 2025. My current research interests are evaluating "code generation quality of LLMs", using "LLMs for requirements validation", and "Interpretability of AI Models". This research builds on my recent Post-Doctoral experience as a Research Scientist at the [Research for Intelligent Software Engineering (RISE)](https://rise.smu.edu.sg/) laboratory at [Singapore Management University (SMU)](https://smu.edu.sg), ranked second globally for software engineering research. My work at SMU involved evaluating human-model alignment for deep-learning-based AI systems, with a particular focus on causal explainability. As part of the _Science of Certified AI systems_ project, funded by the Ministry of Education, I worked with my supervisor [Prof. Lingxiao Jiang](http://www.mysmu.edu/faculty/lxjiang/), to develop methodologies to evaluate the trustworthiness of AI models for code-relevant tasks.
 
 I obtained my PhD degree in Computer Science from the Lahore University of Management Sciences (LUMS), Pakistan in 2021. My Ph.D. was supervised by [Prof. Dr. Shafay Shamail](https://lums.edu.pk/lums_employee/533) and my PhD committee members included [Dr. Hamid Abdul Basit](https://pk.linkedin.com/in/hamidabdulbasit), [Dr. Basit Shafique](https://lums.edu.pk/lums_employee/2853), and [Dr. Naveed Arshad](https://lums.edu.pk/lums_employee/1352). My Ph.D. thesis is titled "Feature-driven API usage-based Code Example Recommendation for Opportunistic Reuse".
 
-I'm a detail-oriented academic aiming to excel in everything I do. I’m deeply invested in making meaningful contributions to my field and approach every opportunity with curiosity, a drive to learn, and a dedication to helping others grow.
+<!-- I'm a detail-oriented academic aiming to excel in everything I do. I’m deeply invested in making meaningful contributions to my field and approach every opportunity with curiosity, a drive to learn, and a dedication to helping others grow. -->
 
-I excel in environments where creativity, critical thinking, and collaboration intersect, and my work is grounded in balance, empathy, and a deep desire to make a positive impact. 
+<!-- I excel in environments where creativity, critical thinking, and collaboration intersect, and my work is grounded in balance, empathy, and a deep desire to make a positive impact.  -->
 <!-- If I had a superpower, it would be empathy—because I believe that understanding people is the key to creating meaningful connections and impactful work. -->
 
-My biggest flex? My excellent English communication skills, which allow me to ask compelling, thought-provoking questions. These questions have not only sparked meaningful conversations but also opened doors to countless opportunities and earned me valuable visibility. 
+<!-- My biggest flex? My excellent English communication skills, which allow me to ask compelling, thought-provoking questions. These questions have not only sparked meaningful conversations but also opened doors to countless opportunities and earned me valuable visibility.  -->
