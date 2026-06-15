@@ -3,6 +3,9 @@
 
 title: "Conference Program Committee Membership"
 summary: "
+  
+  - [41st IEEE/ACM International Conference on Automated Software Engineering, ASE 2026](https://conf.researchr.org/committee/ase-2026/ase-2026-research-track-programm-committee) Program Committee Member in Research Track
+
   - [40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025](https://conf.researchr.org/committee/ase-2025/ase-2025-papers-program-committee) Program Committee Member in Research Track
 
   - [ACM International Conference on the Foundations of Software Engineering (FSE) 2025](https://conf.researchr.org/track/fse-2025/fse-2025-demonstrations) Program Committee Member in Demonstrations Track

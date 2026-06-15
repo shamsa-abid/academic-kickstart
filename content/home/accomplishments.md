@@ -63,10 +63,21 @@ date_format = "Jan 2006"
   organization = " ACM International Conference on the Foundations of Software Engineering (FSE) 2025"
   organization_url = "https://conf.researchr.org/home/fse-2025"
   title = "Distinguished Reviewer Award (Demonstrations Track)"
-  url = ""
+  url = "files/ReviewerCertificate.pdf"
   certificate_url = ""
   date_start = "2025-06-27"
   date_end = ""
+  description = ""
+
+
+  [[item]]
+  organization = "DeepLearning.AI"
+  organization_url = "https://learn.deeplearning.ai/"
+  title = "Agentic AI"
+  url = "files/AgenticAIcertificate2026.png"
+  certificate_url = "https://learn.deeplearning.ai/certificates/920e0e48-f4eb-4c06-b2cc-fd56df747b31"
+  date_start = "2026-06-1"
+  date_end = "2026-06-12"
   description = ""
 
 

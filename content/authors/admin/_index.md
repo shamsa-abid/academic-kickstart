@@ -21,6 +21,7 @@ organizations:
 bio: My research interests include generative AI for code reuse, explainable AI (XAI), code models trustworthiness, semantic clones, software reuse, and code recommendation systems.
 
 interests:
+  - Agentic AI for Software Engineering
   - Generative AI for Code Reuse - Safety and Performance
   - Code Models Trustworthiness Evaluation
   - Semantic Code Clones Benchmarking
