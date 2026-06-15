@@ -76,7 +76,7 @@ date_format = "Jan 2006"
   title = "Agentic AI"
   url = "files/AgenticAIcertificate2026.png"
   certificate_url = "https://learn.deeplearning.ai/certificates/920e0e48-f4eb-4c06-b2cc-fd56df747b31"
-  date_start = "2026-06-1"
+  date_start = "2026-06-01"
   date_end = "2026-06-12"
   description = ""
 
